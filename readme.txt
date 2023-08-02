@@ -1,0 +1,5 @@
+blog-singe等网页不需要维护
+about也不需要
+blog不需要
+
+把index和bride的维护好了，按照这个格式修改
